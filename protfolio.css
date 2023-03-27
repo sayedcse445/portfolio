@@ -1,0 +1,76 @@
+.Frist{
+    tab-size: 20px;
+    display: flex;
+}
+.s{
+    color: rgb(236, 253, 9);
+}
+.h1{
+    font-size: 45px;
+}
+.h2{
+    font-size: 36px;
+}
+.h3{
+    font-size: 29px;
+}
+body{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.first{
+    width: 50%;
+    padding: 3%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient( skyblue,yellow);
+}
+.pic{
+    height: 70%;
+    width: 70%;
+    padding: 59PX;
+}
+.P{
+    color: black;
+    font-size: 24PX;
+}
+.second{
+    padding: 10px;
+    display: flex;
+    margin: 10px;
+    font-size: 18px;
+    top: 50px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.one{
+    margin: 50px;
+    padding: 20px;
+    width: 25%;
+    height: 95%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 5px 10px 20px gray;
+}
+#na{
+    border-left: 7px solid #3be11a;;
+}
+#half{
+    border-left: 7px solid #ef3d0c;;
+}
+#full{
+    border-left: 7px solid #4120a5;;
+}
+.footer{
+    text-align: center;
+}
+.sa{
+    text-align: center;
+    color: black;
+    background-color: coral;
+
+    font-size: 20px;
+}
+.p1{
+    font-size: 20px;
+}
